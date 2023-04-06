@@ -1,6 +1,10 @@
-# 🚀 About this Project
+---
+description: Measuring the Geographic Decentralization of Ethereun Validator Nodes
+---
 
-## Our Vision
+# 🚀 Borderless Ethereum
+
+## Aims and Objectives
 
 {% hint style="info" %}
 We're trying to measure the geographical distribution of validator nodes as a measure of how vulnerable or resilient Ethereum is to nation state coercion. We're calling all validator node operators to help us!
