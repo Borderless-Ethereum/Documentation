@@ -18,6 +18,6 @@ To achieve this goal we are asking validator nodes to self-report their country 
 
 ## Here's how it works
 
-* As a node operator, configure your client to put a geo-code in the graffitti field of the blocks you produce
-* The geo-code should look like "GEO-XX" where XX is the country code of the country your node is situated in
-* We will scan the beacon chain for geo-codes and compile a database of how many nodes are in which country
+* As a node operator, configure your client to put a geo tag in the graffitti field of the blocks you produce
+* The geo tag should look like "GEO-XX" where XX is the country code of the country your node is situated in
+* We will scan the beacon chain for geo tags and compile a database of how many nodes are in which country
